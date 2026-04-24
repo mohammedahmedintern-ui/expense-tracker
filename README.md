@@ -12,7 +12,8 @@ A simple expense tracker built using Python and Streamlit.
 - Streamlit
 - JSON (for storage)
 - ## 🚀 Live App  
-👉 https://your-streamlit-app-link
+👉 ## 🚀 Live App  
+👉 https://expense-tracker-pjugwhhv2rnhojlryxitlj.streamlit.app/
 
 ## How to Run
 ```bash
